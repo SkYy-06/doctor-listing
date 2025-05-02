@@ -1,0 +1,12 @@
+
+# Ignore .env files
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+.next/
+
+# Logs
+*.log
